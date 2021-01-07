@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace operator_null_unification
+namespace WF
 {
     public partial class Form1 : Form
     {

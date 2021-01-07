@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace operator_null_unification
+namespace WF
 {
     static class Program
     {

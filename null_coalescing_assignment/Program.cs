@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace null_assign_unif
+namespace null_coalescing_assignment
 {
     //??=
     class Program
